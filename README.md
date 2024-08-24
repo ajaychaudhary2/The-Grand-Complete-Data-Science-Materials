@@ -82,21 +82,10 @@
 
 https://github.com/iNeuronai/interview-question-data-science-
 
-## Internships
-
-https://internship.ineuron.ai/
 
 ## Data Science TrackerSheet For Learning
 
 https://drive.google.com/file/d/18doA_wMja2nAawcE6imIcfnEMf-Pir2n/view
 
-## Youtube Channels For Referring All Videos. Consider Subscribing and pressing the bell icon.
 
-- Krish Naik : https://www.youtube.com/@krishnaik06
-- Krish Naik Hindi: https://www.youtube.com/@krishnaikhindi
-- Success Stories By Krish(Coming up): https://www.youtube.com/channel/UCNSHtBgZ3dhcpv190JrK_LQ
-- Support Channel and Join this channel to get access to perks: https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig/join our Data Science Project
 
-## Join Our Data Science Project Neuron
-
-https://ineuron.ai/one-neuron/Data-science-Projects-Neuron?source=one_neuron_listing
